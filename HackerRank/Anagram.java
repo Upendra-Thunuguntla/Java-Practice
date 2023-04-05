@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/anagram
-
+package HackerRank;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Anagram {
 
     // Complete the anagram function below.
     static int anagram(String s) {
